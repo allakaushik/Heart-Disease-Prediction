@@ -1,16 +1,14 @@
-# Heart-Disease-Prediction
+# Heart Disease Prediction using ML
 
-# Heart Disease Prediction using Machine Learning
-
-Heart disease is a major cause of mortality worldwide. This project aims to utilize various machine learning algorithms to predict the presence of heart disease based on clinical parameters. Early detection can lead to timely treatment and improved patient outcomes.
+Heart disease is a major cause of mortality worldwide. This project aims to utilise various machine learning algorithms to predict the presence of heart disease based on clinical parameters. Early detection can lead to timely treatment and improved patient outcomes.
 
 ## 📌 Project Overview
 
-This project builds a classification model to predict whether a person has heart disease or not using a dataset of medical features. The goal is to analyze different machine learning algorithms and compare their performance.
+This project develops a classification model to predict whether a person has heart disease or not, utilising a dataset of medical features. The goal is to analyse different machine learning algorithms and compare their performance.
 
 ## 📂 Dataset
 
-The dataset contains several clinical features including:
+The dataset contains several clinical features, including:
 - Age, Sex
 - Chest Pain Type (`cp`)
 - Fasting Blood Sugar (`fbs`)
@@ -39,23 +37,23 @@ Implemented using **Python** and popular libraries like `scikit-learn`, `Keras`,
 
 - Correlation heatmaps
 - Feature-wise analysis (e.g., `sex`, `cp`, `fbs`, `thal`)
-- Visualization of target value distribution
+- Visualisation of target value distribution
 
 ## ⚙️ Implementation Steps
 
-1. Import libraries and dataset
-2. Perform EDA and visualize features
+1. Import libraries and the dataset
+2. Perform EDA and visualise features
 3. Preprocess and split the data into train/test sets
 4. Train models and evaluate using performance metrics (accuracy, precision, recall, etc.)
 5. Compare model outputs
 
 ## ✅ Results
 
-The models achieved high accuracy and were effective in identifying key predictors of heart disease. Ensemble models like **Random Forest** and **XGBoost** performed particularly well.
+The models achieved high accuracy and were effective in identifying key predictors of heart disease. Ensemble models, such as **Random Forest** and **XGBoost**, performed particularly well.
 
 ## 📌 Conclusion
 
-Machine learning algorithms can significantly aid in the early detection of heart disease. With continued improvement and larger datasets, these models can enhance personalized healthcare and preventive interventions. 
+Machine learning algorithms can significantly aid in the early detection of heart disease. With continued improvement and larger datasets, these models can enhance personalised healthcare and preventive interventions. 
 
 ## 📚 Institution
 
